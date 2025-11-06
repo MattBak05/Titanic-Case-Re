@@ -15,7 +15,7 @@ from streamlit_folium import st_folium
 
 # Pagina configuratie
 st.set_page_config(
-    page_title="Titanic Overlevingsanalyse",
+    page_title="Verbeterde Titanic Case",
     page_icon="⚓",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1021,4 +1021,5 @@ st.markdown("""
         <p>🚢 Titanic Overlevingsanalyse Dashboard</p>
         <p>Data Bron: Kaggle Titanic Dataset | Gebouwd met Streamlit & Plotly</p>
     </div>
+
 """, unsafe_allow_html=True)
