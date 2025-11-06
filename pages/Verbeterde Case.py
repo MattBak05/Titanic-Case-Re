@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 
-st.title("⚓ Titanic Overlevingsanalyse Dashboard")
+st.title("⚓ Verbeterde Titanic Case")
 
 # Sidebar navigatie
 with st.sidebar:
@@ -1023,3 +1023,4 @@ st.markdown("""
     </div>
 
 """, unsafe_allow_html=True)
+
