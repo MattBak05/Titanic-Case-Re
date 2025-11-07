@@ -20,8 +20,8 @@ st.header("🔄 Beknopte verbeteringen")
 st.markdown("""
 - **Data bewerking en prepocessing**: leeftijdscategorieën, titels, familievariabelen, NAN-waardes invullen, etc.  
 - **Data Visualisatie**: Gebruik van Plotly voor interactiviteit.  
-- **Statistische onderbouwing**: meerdere modellen getest (KNN, logistische en lineaire regressie).  
-- **Lay-out**: overzichtelijke structuur met kleur, consistentie en interactiviteit.
+- **Statistische onderbouwing**: Twee modellen getest (KNN en lineaire regressie).  
+- **Lay-out**: Overzichtelijke structuur met kleur, consistentie en interactiviteit.
 """)
 
 st.markdown("---")
@@ -88,3 +88,4 @@ elif pagina == "Statistiek en modellen":
 # ------------------------------------------------------------
 st.markdown("---")
 st.caption("© 2025 — Team 17 | Matt Bak | Visual Analytics Eindopdracht Titanic")
+
